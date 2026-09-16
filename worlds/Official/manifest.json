@@ -1,0 +1,400 @@
+{
+  "name": "Official",
+  "seed": "gFMViH7MVA",
+  "gameVersion": "1.0.12",
+  "worldGenVersion": 2,
+  "savedAt": "2026-09-17T05:21:12",
+  "uploader": "拉芒育苗小学三期士官",
+  "tool": "ValheimSaveShare 1.0.2",
+  "format": "zip",
+  "files": [
+    {
+      "path": "_main.165.fwl2",
+      "size": 789
+    },
+    {
+      "path": "_main.165.db2",
+      "size": 177072
+    },
+    {
+      "path": "_main.165.chunks",
+      "size": 1033
+    },
+    {
+      "path": "_main.165.ok",
+      "size": 4
+    },
+    {
+      "path": "00_01__0_31.chunk",
+      "size": 2378
+    },
+    {
+      "path": "0c_24__2_11.chunk",
+      "size": 1212155
+    },
+    {
+      "path": "0c_28__1_1.chunk",
+      "size": 763
+    },
+    {
+      "path": "0e_22__1_2.chunk",
+      "size": 319
+    },
+    {
+      "path": "0e_28__1_8.chunk",
+      "size": 864875
+    },
+    {
+      "path": "10_22__1_2.chunk",
+      "size": 88447
+    },
+    {
+      "path": "10_24__2_6.chunk",
+      "size": 930981
+    },
+    {
+      "path": "10_28__1_6.chunk",
+      "size": 287859
+    },
+    {
+      "path": "12_20__1_1.chunk",
+      "size": 329255
+    },
+    {
+      "path": "12_22__1_2.chunk",
+      "size": 128361
+    },
+    {
+      "path": "12_28__1_1.chunk",
+      "size": 190431
+    },
+    {
+      "path": "12_2a__1_1.chunk",
+      "size": 14966
+    },
+    {
+      "path": "12_2c__1_1.chunk",
+      "size": 4009
+    },
+    {
+      "path": "14_20__1_1.chunk",
+      "size": 229032
+    },
+    {
+      "path": "14_22__1_1.chunk",
+      "size": 233733
+    },
+    {
+      "path": "14_24__1_2.chunk",
+      "size": 23504
+    },
+    {
+      "path": "14_26__1_3.chunk",
+      "size": 65784
+    },
+    {
+      "path": "14_28__2_1.chunk",
+      "size": 1210271
+    },
+    {
+      "path": "14_2c__1_1.chunk",
+      "size": 251368
+    },
+    {
+      "path": "16_20__1_1.chunk",
+      "size": 97656
+    },
+    {
+      "path": "16_22__1_2.chunk",
+      "size": 347220
+    },
+    {
+      "path": "16_24__1_6.chunk",
+      "size": 306607
+    },
+    {
+      "path": "16_26__1_6.chunk",
+      "size": 478293
+    },
+    {
+      "path": "18_20__1_1.chunk",
+      "size": 28190
+    },
+    {
+      "path": "18_22__1_2.chunk",
+      "size": 294662
+    },
+    {
+      "path": "18_24__2_33.chunk",
+      "size": 3454793
+    },
+    {
+      "path": "18_28__1_2.chunk",
+      "size": 263117
+    },
+    {
+      "path": "1a_20__1_2.chunk",
+      "size": 224485
+    },
+    {
+      "path": "1a_22__1_4.chunk",
+      "size": 16380
+    },
+    {
+      "path": "1a_28__1_1.chunk",
+      "size": 1235
+    },
+    {
+      "path": "1c_1e__1_2.chunk",
+      "size": 20423
+    },
+    {
+      "path": "1c_20__1_3.chunk",
+      "size": 419231
+    },
+    {
+      "path": "1c_22__1_1.chunk",
+      "size": 28770
+    },
+    {
+      "path": "1c_24__1_4.chunk",
+      "size": 193987
+    },
+    {
+      "path": "1c_26__1_2.chunk",
+      "size": 166
+    },
+    {
+      "path": "1c_28__1_1.chunk",
+      "size": 167960
+    },
+    {
+      "path": "1c_2a__1_5.chunk",
+      "size": 125351
+    },
+    {
+      "path": "1c_2c__1_9.chunk",
+      "size": 191432
+    },
+    {
+      "path": "1e_1c__1_3.chunk",
+      "size": 254570
+    },
+    {
+      "path": "1e_1e__1_56.chunk",
+      "size": 1662602
+    },
+    {
+      "path": "1e_20__1_49.chunk",
+      "size": 1294504
+    },
+    {
+      "path": "1e_22__1_2.chunk",
+      "size": 226182
+    },
+    {
+      "path": "1e_24__1_2.chunk",
+      "size": 300892
+    },
+    {
+      "path": "1e_26__1_4.chunk",
+      "size": 18965
+    },
+    {
+      "path": "1e_28__1_9.chunk",
+      "size": 731814
+    },
+    {
+      "path": "1e_2a__1_8.chunk",
+      "size": 167603
+    },
+    {
+      "path": "1e_2c__1_22.chunk",
+      "size": 388261
+    },
+    {
+      "path": "20_1c__1_2.chunk",
+      "size": 121328
+    },
+    {
+      "path": "20_1e__1_148.chunk",
+      "size": 1381527
+    },
+    {
+      "path": "20_20__1_148.chunk",
+      "size": 1207236
+    },
+    {
+      "path": "20_22__1_3.chunk",
+      "size": 409627
+    },
+    {
+      "path": "20_24__1_2.chunk",
+      "size": 331658
+    },
+    {
+      "path": "20_26__1_2.chunk",
+      "size": 68390
+    },
+    {
+      "path": "20_28__1_9.chunk",
+      "size": 284536
+    },
+    {
+      "path": "20_2a__1_2.chunk",
+      "size": 80751
+    },
+    {
+      "path": "20_2c__1_2.chunk",
+      "size": 12236
+    },
+    {
+      "path": "22_1e__1_12.chunk",
+      "size": 889424
+    },
+    {
+      "path": "22_20__1_13.chunk",
+      "size": 1112194
+    },
+    {
+      "path": "22_22__1_3.chunk",
+      "size": 418811
+    },
+    {
+      "path": "22_24__1_3.chunk",
+      "size": 173211
+    },
+    {
+      "path": "22_26__1_1.chunk",
+      "size": 229900
+    },
+    {
+      "path": "22_28__1_1.chunk",
+      "size": 450872
+    },
+    {
+      "path": "22_2a__1_2.chunk",
+      "size": 168787
+    },
+    {
+      "path": "22_2c__1_3.chunk",
+      "size": 472058
+    },
+    {
+      "path": "22_2e__1_1.chunk",
+      "size": 89286
+    },
+    {
+      "path": "22_30__1_1.chunk",
+      "size": 3776
+    },
+    {
+      "path": "24_1e__1_3.chunk",
+      "size": 673133
+    },
+    {
+      "path": "24_20__1_8.chunk",
+      "size": 648209
+    },
+    {
+      "path": "24_22__1_29.chunk",
+      "size": 790595
+    },
+    {
+      "path": "24_24__1_11.chunk",
+      "size": 1226119
+    },
+    {
+      "path": "24_26__1_1.chunk",
+      "size": 288710
+    },
+    {
+      "path": "24_28__1_1.chunk",
+      "size": 15845
+    },
+    {
+      "path": "24_2a__1_1.chunk",
+      "size": 960
+    },
+    {
+      "path": "24_2c__1_11.chunk",
+      "size": 398382
+    },
+    {
+      "path": "24_2e__1_5.chunk",
+      "size": 621438
+    },
+    {
+      "path": "24_30__1_4.chunk",
+      "size": 31439
+    },
+    {
+      "path": "26_1e__1_2.chunk",
+      "size": 3006
+    },
+    {
+      "path": "26_20__1_15.chunk",
+      "size": 869070
+    },
+    {
+      "path": "26_22__1_15.chunk",
+      "size": 376973
+    },
+    {
+      "path": "26_24__1_3.chunk",
+      "size": 302048
+    },
+    {
+      "path": "26_2c__1_4.chunk",
+      "size": 68460
+    },
+    {
+      "path": "26_2e__1_1.chunk",
+      "size": 46
+    },
+    {
+      "path": "28_22__1_9.chunk",
+      "size": 594750
+    },
+    {
+      "path": "28_24__1_10.chunk",
+      "size": 694497
+    },
+    {
+      "path": "2a_22__1_3.chunk",
+      "size": 43637
+    },
+    {
+      "path": "2a_24__1_4.chunk",
+      "size": 1373
+    },
+    {
+      "path": "2c_22__1_2.chunk",
+      "size": 26802
+    },
+    {
+      "path": "2e_20__1_3.chunk",
+      "size": 2213
+    },
+    {
+      "path": "2e_22__1_3.chunk",
+      "size": 232842
+    },
+    {
+      "path": "2e_24__1_1.chunk",
+      "size": 32893
+    },
+    {
+      "path": "30_20__1_3.chunk",
+      "size": 35264
+    },
+    {
+      "path": "30_22__1_6.chunk",
+      "size": 539949
+    },
+    {
+      "path": "30_24__2_6.chunk",
+      "size": 1322653
+    }
+  ]
+}
