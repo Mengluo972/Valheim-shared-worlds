@@ -1,27 +1,27 @@
 {
   "name": "Official",
   "seed": "gFMViH7MVA",
-  "gameVersion": "1.0.12",
+  "gameVersion": "1.0.14",
   "worldGenVersion": 2,
-  "savedAt": "2026-09-17T05:32:03",
+  "savedAt": "2026-09-17T20:40:09",
   "uploader": "拉芒育苗小学三期士官",
   "tool": "ValheimSaveShare 1.0.2",
   "format": "zip",
   "files": [
     {
-      "path": "_main.165.fwl2",
+      "path": "_main.167.fwl2",
       "size": 789
     },
     {
-      "path": "_main.165.db2",
+      "path": "_main.167.db2",
       "size": 177072
     },
     {
-      "path": "_main.165.chunks",
+      "path": "_main.167.chunks",
       "size": 1033
     },
     {
-      "path": "_main.165.ok",
+      "path": "_main.167.ok",
       "size": 4
     },
     {
@@ -217,12 +217,12 @@
       "size": 121328
     },
     {
-      "path": "20_1e__1_148.chunk",
-      "size": 1381527
+      "path": "20_1e__1_150.chunk",
+      "size": 1381482
     },
     {
-      "path": "20_20__1_148.chunk",
-      "size": 1207236
+      "path": "20_20__1_150.chunk",
+      "size": 1207464
     },
     {
       "path": "20_22__1_3.chunk",
